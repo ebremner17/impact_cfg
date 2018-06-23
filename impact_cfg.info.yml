@@ -1,0 +1,8 @@
+name: 'Impact Configuration'
+description: 'Configuration for Impact Percussion.'
+type: module
+core: 8.x
+dependencies:
+  - simplify_menu
+  - libraries
+  - twig_field_value

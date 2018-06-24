@@ -6,3 +6,6 @@ dependencies:
   - simplify_menu
   - libraries
   - twig_field_value
+  - video_embed_field
+themes:
+  - impact
